@@ -11,8 +11,8 @@
 </svelte:head>
 
 <div class="flex flex-col min-h-screen">
-    <div class="navbar bg-black-300 fixed top-0 left-0 right-0 z-50 flex items-center">
-        <a href="/" class="btn btn-ghost text-xl">
+    <div class="navbar bg-neutral fixed top-0 left-0 right-0 w-full z-50 flex items-center">
+        <a href="/" class="btn btn-ghost text-xl text-white">
             Vocalizer
         </a>
     </div>
